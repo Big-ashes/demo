@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "operation",
+        "distict": "A"
+    },
+    {
+        "id": 2,
+        "title": "IT",
+        "distict": "B"
+    },
+    {
+        "id": 3,
+        "title": "sale",
+        "distict": "A"
+    },
+    {
+        "id": 4,
+        "title": "logistic",
+        "distict": "B"
+    }
+]
